@@ -6,3 +6,4 @@ function myfunc(...num1){
     return console.log(sum)
 }
 myfunc(1,2,3)
+// arethmatic
